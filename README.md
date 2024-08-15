@@ -6,15 +6,6 @@
 
 This project is a Python implementation of Gemini AI, utilizing a third-party API for its functionality. 
 
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed on your system:
-
-- Python 3.x
-- Git
-
 ### Installation
 
 Follow these steps to clone the repository and set up the project:
@@ -45,7 +36,7 @@ This project relies on a third-party API to function. The API is provided by [Mi
 Run the main script to start using Gemini AI:
 
 ```bash
-python main.py
+python gemini.py
 ```
 
 Follow the prompts and enjoy using Gemini AI!
